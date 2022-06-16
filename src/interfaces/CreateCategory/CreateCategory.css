@@ -1,0 +1,20 @@
+/* Category */
+.category {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.category-header {
+  width: 100%;
+  text-align: left;
+}
+.category-content {
+  display: flex;
+  overflow: scroll;
+  align-items: center;
+  width: 100%;
+}
+.category-content::-webkit-scrollbar {
+  display: none;
+}

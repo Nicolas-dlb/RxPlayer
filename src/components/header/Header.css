@@ -1,0 +1,58 @@
+/* Header */
+header {
+  display: flex !important;
+  box-sizing: border-box !important;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #313435;
+  color: white;
+  height: 67px;
+  width: 100%;
+  padding: 0px 20px;
+}
+header img {
+  cursor: pointer;
+  width: 100px;
+}
+header h1 {
+  line-height: 1.05;
+  text-align: start;
+}
+
+/* Content */
+#rxPlayer {
+  display: flex;
+  align-items: baseline;
+  min-width: fit-content;
+}
+#canal {
+  display: none;
+}
+.version {
+  color: rgb(200, 200, 200);
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.version:hover {
+  color: rgb(128, 128, 128);
+}
+
+/* Media queries */
+@media only screen and (min-width: 250px) {
+  header img {
+    width: 150px;
+  }
+  .version {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  #canal {
+    display: inline-block;
+    width: 100px;
+  }
+}

@@ -1,0 +1,12 @@
+.btn {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  margin: 10px;
+  font-family: Lato;
+  font-size: 11.65px;
+  padding: 10px;
+  min-width: max-content;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+}

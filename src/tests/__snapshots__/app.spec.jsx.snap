@@ -1,0 +1,288 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Should render the app correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="app"
+      >
+        <header>
+          <div
+            id="rxPlayer"
+          >
+            <a
+              href="https://github.com/canalplus/rx-player"
+            >
+              <h1>
+                <img
+                  alt="RxPlayer"
+                  src="rxPlayer_logo_white.png"
+                />
+              </h1>
+            </a>
+            <a
+              class="version"
+              href="https://github.com/canalplus/rx-player/releases"
+            >
+              <p>
+                v3.27.0
+              </p>
+            </a>
+          </div>
+          <a
+            aria-label="Go to Canal+ website"
+            href="https://www.canalplus.com"
+          >
+            <img
+              alt="CANAL+"
+              id="canal"
+              src="canalp.svg"
+            />
+          </a>
+        </header>
+        <div
+          class="hero-banner"
+          id="test"
+        >
+          <video
+            controls=""
+            id="video"
+            preload="auto"
+          />
+          <div
+            class="comments"
+          >
+            <button
+              class="btn"
+              type="button"
+            >
+              Add
+            </button>
+            <div
+              class="comments-wrapper"
+            />
+          </div>
+        </div>
+        <div
+          class="category"
+          id="scenes"
+        >
+          <div
+            class="category-header"
+          >
+            <h3
+              class="title"
+            >
+              Scenes
+            </h3>
+          </div>
+          <div
+            class="category-content"
+          />
+        </div>
+        <div
+          class="category"
+          id="crew"
+        >
+          <div
+            class="category-header"
+          >
+            <h3
+              class="title"
+            >
+              Crew
+            </h3>
+          </div>
+          <div
+            class="category-content"
+          />
+        </div>
+        <div
+          class="category"
+          id="bonus-images"
+        >
+          <div
+            class="category-header"
+          >
+            <h3
+              class="title"
+            >
+              Bonus images
+            </h3>
+          </div>
+          <div
+            class="category-content"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="app"
+    >
+      <header>
+        <div
+          id="rxPlayer"
+        >
+          <a
+            href="https://github.com/canalplus/rx-player"
+          >
+            <h1>
+              <img
+                alt="RxPlayer"
+                src="rxPlayer_logo_white.png"
+              />
+            </h1>
+          </a>
+          <a
+            class="version"
+            href="https://github.com/canalplus/rx-player/releases"
+          >
+            <p>
+              v3.27.0
+            </p>
+          </a>
+        </div>
+        <a
+          aria-label="Go to Canal+ website"
+          href="https://www.canalplus.com"
+        >
+          <img
+            alt="CANAL+"
+            id="canal"
+            src="canalp.svg"
+          />
+        </a>
+      </header>
+      <div
+        class="hero-banner"
+        id="test"
+      >
+        <video
+          controls=""
+          id="video"
+          preload="auto"
+        />
+        <div
+          class="comments"
+        >
+          <button
+            class="btn"
+            type="button"
+          >
+            Add
+          </button>
+          <div
+            class="comments-wrapper"
+          />
+        </div>
+      </div>
+      <div
+        class="category"
+        id="scenes"
+      >
+        <div
+          class="category-header"
+        >
+          <h3
+            class="title"
+          >
+            Scenes
+          </h3>
+        </div>
+        <div
+          class="category-content"
+        />
+      </div>
+      <div
+        class="category"
+        id="crew"
+      >
+        <div
+          class="category-header"
+        >
+          <h3
+            class="title"
+          >
+            Crew
+          </h3>
+        </div>
+        <div
+          class="category-content"
+        />
+      </div>
+      <div
+        class="category"
+        id="bonus-images"
+      >
+        <div
+          class="category-header"
+        >
+          <h3
+            class="title"
+          >
+            Bonus images
+          </h3>
+        </div>
+        <div
+          class="category-content"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

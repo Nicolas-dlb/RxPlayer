@@ -1,0 +1,12 @@
+video {
+  margin: 30px 0px;
+  width: 90%;
+}
+
+@media only screen and (min-width: 999px) {
+  video {
+    height: 100%;
+    flex: 1;
+    border-bottom-right-radius: 5px;
+  }
+}
